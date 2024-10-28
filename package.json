@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/test-vite/",
+  "homepage": "https://seeker93.github.io/test-vite/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
